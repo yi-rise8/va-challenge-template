@@ -11,9 +11,9 @@ assignees: ''
 _Insert issue details here_
 
 ## Front end tasks
-- Ensure the page is styled according to design spec. 
+- Ensure the page is styled according to design spec
 - Ensure the back end data from API is displayed in local and review instance
-- Ensure unit tests are available. 
+- Ensure unit tests are available
 - Ensure your code changes are covered by E2E tests
 - Run axe checks using the Chrome or Firefox browser plugin
 - Test for color contrast and color blindness issues
@@ -115,3 +115,9 @@ _Insert issue details here_
  
 
 </details>
+
+
+
+---
+## How to configure this issue
+- [ ] **Attached to an Epic** (what body of work is this a part of?)

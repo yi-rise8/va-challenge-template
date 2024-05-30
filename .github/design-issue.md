@@ -1,8 +1,8 @@
 ---
 name: Design Issue
 about: For filing design issues
-title: ''
-labels: ''
+title: 'Design: title'
+labels: 'design'
 assignees: ''
 ---
 ## Issue Description

@@ -1,9 +1,9 @@
 # Here's all the documentation and deliverables from the design team:
 
-- [ ] Research plan
-- [ ] Persona
+- [X ] Research plan
+- [ X] Persona
 - [ ] User research findings
-- [ ] Journey map
+- [X ] Journey map
 - [ ] User testing plan and results
-- [ ] Design recommendations and user flow
+- [ X] Design recommendations and user flow
 - [ ] Design assets

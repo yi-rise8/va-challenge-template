@@ -5,6 +5,6 @@
 - [ ] User research findings: 
 - [X] Journey map: `test_journey.pdf`
 - [X] User testing plan: `20240528_SPRUCE_pract1_usability test-v2.docx`
-- [X] User testing results: `usability-testing-results-v1.pptx`
+- [X] User testing results: `usability-testing-results-v2.pptx`
 - [X] Design recommendations and user flow: 
 - [X] Design assets: `Challenge Test.fig`

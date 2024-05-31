@@ -4,6 +4,6 @@
 - [X] Persona
 - [ ] User research findings
 - [X] Journey map
-- [ ] User testing plan and results
+- [X] User testing plan and results
 - [X] Design recommendations and user flow
 - [X] Design assets

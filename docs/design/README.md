@@ -6,4 +6,4 @@
 - [X] Journey map
 - [ ] User testing plan and results
 - [X] Design recommendations and user flow
-- [ ] Design assets
+- [X] Design assets
